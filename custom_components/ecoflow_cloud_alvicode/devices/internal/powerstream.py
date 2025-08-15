@@ -2,6 +2,7 @@ import logging
 from collections.abc import Sequence
 from typing import Any, cast, override
 
+from custom_components.ecoflow_cloud_alvicode.number import MaxBatteryLevelEntity, MinBatteryLevelEntity
 from homeassistant.components.sensor import SensorEntity
 from homeassistant.components.switch import SwitchEntity
 from homeassistant.components.number import NumberEntity
