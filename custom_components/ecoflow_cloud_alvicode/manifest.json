@@ -1,6 +1,6 @@
 {
-  "domain": "ecoflow_cloud",
-  "name": "Ecoflow-Cloud",
+  "domain": "ecoflow_cloud_alvicode",
+  "name": "Ecoflow-Cloud-Alvicode",
   "codeowners": [
     "@tolwi"
   ],
