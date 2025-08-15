@@ -10,7 +10,7 @@ from .device_data import DeviceData, DeviceOptions
 
 _LOGGER = logging.getLogger(__name__)
 
-ECOFLOW_DOMAIN = "ecoflow_cloud"
+ECOFLOW_DOMAIN = "ecoflow_cloud_alvicode"
 CONFIG_VERSION = 9
 
 _PLATFORMS = {
